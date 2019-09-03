@@ -1,0 +1,17 @@
+#include "resource.h"
+
+1 24 "podcaster.manifest"
+
+BMP_LOGO BITMAP		"poddedlogo.bmp"
+
+STRINGTABLE
+BEGIN
+	BTN_LONLINE_TXT		L"Listen Online"
+	BTN_SAVE_TXT		L"Save .rss"
+	BTN_SEARCH_TXT		L"Go"
+	BTN_DELETE_TXT		L"Delete"
+	BTN_DOWNLOAD_TXT	L"Download Checked"
+	BTN_CHECKALL_TXT	L"Check All"
+	BTN_LIB_TXT		L"Library"
+	BTN_DLVIEW_TXT		L"Downloads"	
+END

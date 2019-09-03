@@ -1,0 +1,30 @@
+#ifndef RESOURCE_H
+#define RESOURCE_H
+
+#define BMP_LOGO	200
+
+#define BTN_LONLINE	600
+#define BTN_SAVE	601
+#define BTN_SEARCH	602
+#define BTN_DELETE	603
+#define BTN_DOWNLOAD	604
+#define BTN_CHECKALL	605
+#define BTN_LIB		606
+#define BTN_DLVIEW	607
+
+#define BTN_LONLINE_TXT		1000
+#define BTN_SAVE_TXT		1001
+#define BTN_SEARCH_TXT		1002
+#define BTN_DELETE_TXT		1003
+#define BTN_DOWNLOAD_TXT	1004
+#define BTN_CHECKALL_TXT	1005
+#define BTN_LIB_TXT		1006
+#define BTN_DLVIEW_TXT		1007
+
+#define LV_RSS 		800
+#define LV_PODCAST 	801
+
+#define STATUS 		850
+#define EDT_URL 	851
+
+#endif
